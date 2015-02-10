@@ -17,5 +17,9 @@ namespace GitHubForVisualStudio.Controllers
         {
             return View();
         }
+        public ActionResult Delete()
+        {
+            return View();
+        }
     }
 }
